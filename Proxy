@@ -3,8 +3,9 @@
   "start": "1",
   "stop": "3",
   "channel": "tg:resolve?domain=mtpproxyirani",
-  "tab": "https://uupload.ir/",
-  "tabpic": "https://biaupload.com/do.php?imgf=org-7574dd68dbd51.png",
+  "tabtext": "برای ورود به لینک کلیک کنید",
+  "tablinkon": "on",
+  "tablink": "https://biaupload.com/do.php?imgf=org-7574dd68dbd51.png",
   "1": "tg://proxy?server=185.222.28.135&port=23&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D",
   "2": "tg://proxy?server=185.222.28.20&port=23&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D",
   "3": "tg://proxy?server=103.161.35.20&port=23&secret=telewebion-com-ir-ir-g%3D%3D"
