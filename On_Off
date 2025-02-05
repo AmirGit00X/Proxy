@@ -1,7 +1,7 @@
 {
-  "on": "on",
+  "on": "on_1.0",
   "payamloading": "on",
-  "textloading": "خوش آمدید",
+  "textloading": "Welcome",
   "linkloadingonoff": "off",
   "linkloading": "a"
 }
