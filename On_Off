@@ -1,7 +1,7 @@
 {
   "On": "Off",
   "payamloading": "on",
-  "textloading": "شما اجازه ورود ندارید",
-  "linkloadingonoff": "on",
-  "linkloading": "aaa"
+  "textloading": "اتصال به سرور برقرار نشد بعدا امتحان کنید",
+  "linkloadingonoff": "off",
+  "linkloading": "a"
 }
