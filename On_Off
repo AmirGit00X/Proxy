@@ -1,7 +1,7 @@
 {
-  "On": "Off",
+  "on": "on",
   "payamloading": "on",
-  "textloading": "اتصال به سرور برقرار نشد بعدا امتحان کنید",
+  "textloading": "خوش آمدید",
   "linkloadingonoff": "off",
   "linkloading": "a"
 }
