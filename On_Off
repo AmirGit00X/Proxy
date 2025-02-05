@@ -1,3 +1,7 @@
 {
-  "On": "On"
+  "On": "On",
+  "payamloading": "on",
+  "textloading": "aaa",
+  "linkloadingonoff": "on",
+  "linkloading": "aaa"
 }
