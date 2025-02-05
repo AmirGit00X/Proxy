@@ -1,7 +1,7 @@
 {
-  "On": "On",
+  "On": "Off",
   "payamloading": "on",
-  "textloading": "aaa",
+  "textloading": "شما اجازه ورود ندارید",
   "linkloadingonoff": "on",
   "linkloading": "aaa"
 }
