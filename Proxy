@@ -3,7 +3,7 @@
   "start": "1",
   "stop": "3",
   "channel": "tg:resolve?domain=iproxyx",
-  "tabtext": "برای دریافت پروکسی های بیشتر در کانال ما عضو شوید",
+  "tabtext": "برای دریافت پروکسی های بیشتر در کانال ما عضو شوید. این یک پیام تست می‌باشد جهت تست برنامه پروکسی های برترین آهنگ است",
   "tablinkon": "on",
   "tablink": "tg:resolve?domain=iproxyx",
   "1": "tg://proxy?server=185.222.28.135&port=23&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D",
